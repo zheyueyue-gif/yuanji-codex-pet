@@ -1,6 +1,6 @@
-# Chujian Codex Pet
+# 袁基 Codex Pet
 
-Chujian (&#21021;&#35265;) is a custom Codex Desktop pet package with a gentle chibi xianxia style.
+袁基 (&#21021;&#35265;) is a custom Codex Desktop pet package with a gentle chibi xianxia style.
 
 ## Preview
 
